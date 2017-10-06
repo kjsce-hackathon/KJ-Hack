@@ -1,4 +1,4 @@
-<p align="center"><h3><b><center>Smart Trip<br> developed in </center><b></h3><br></p>
+<p align="center"><h2>Smart Trip<br> developed in </h2><br></p>
 
 
 ## About Smart Trip
