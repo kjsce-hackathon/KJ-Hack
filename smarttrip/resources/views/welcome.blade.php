@@ -7,24 +7,90 @@
     <div id="page-wrapper">
         <div class="row">
             <div class="col-lg-12">
-                <h3>Smart Trip</h3>
-            </div>
-            <div class="col-md-3">
-                <div class="panel panel-primary">
-                  <div class="panel-heading">
-                    <h3 class="panel-title">Panel primary</h3>
-                  </div>
-                  <div class="panel-body">
-                    Panel content
-                  </div>
-                </div>
+                <h3 class="page-header">Hotels</h3>
             </div>
         </div>
         <div class="row">
-            <div class="col-md-10 col-md-offset-1">
-            <p>Smart Trip is a young and experienced Company in Florence, who wants to offer its skills and services to foreign students: tours, excursions and other activities. We’ve got the know-how and a young, lively team of tour leaders. We aim to offer alternative and enjoyable trips to those students who want to make the most of their European experience.
-We not only run excursions to and from Italy and its beautiful landscapes and cities, but also to many international destinations, such as Interlaken, Munchen, Budapest and others!</p>
+            <div class="col-lg-4">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <img src="" style="height: 150px;width: 300px;">
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title">Hotel 1</h3><br>
+                    Hotel 3 details
+                  </div>
+                </div>
             </div>
+
+            <div class="col-lg-4">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <img src="" style="height: 150px;width: 300px;">
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title">Hotel 2</h3><br>
+                    Hotel 3 details
+                  </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <img src="" style="height: 150px;width: 300px;">
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title">Hotel 3</h3><br>
+                    Hotel 3 details
+                  </div>
+                </div>
+            </div>
+            <button class="btn btn-primary pull-right">View More</button>
+        </div>
+
+        {{-- deals --}}
+        <div class="row">
+            <div class="col-lg-12">
+                <h3 class="page-header">LIVE DEALS</h3>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <img src="" style="height: 150px;width: 300px;">
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title">deal 3</h3><br>
+                    Hotel 3 details
+                  </div>
+                </div>
+            </div>
+            <div class="col-lg-4">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <img src="" style="height: 150px;width: 300px;">
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title">deal 3</h3><br>
+                    Hotel 3 details
+                  </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4">
+                <div class="panel panel-default">
+                  <div class="panel-heading">
+                    <img src="" style="height: 150px;width: 300px;">
+                  </div>
+                  <div class="panel-body">
+                    <h3 class="panel-title">deal 3</h3><br>
+                    Hotel 3 details
+                  </div>
+                </div>
+            </div>
+            <button class="btn btn-primary pull-right">View More</button>
         </div>
     </div>
 @endsection
