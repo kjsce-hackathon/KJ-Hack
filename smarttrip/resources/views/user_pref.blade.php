@@ -47,7 +47,7 @@
 		    		<p class="pull-center">
 		    		<h3 class="page-header">Family Preference </h3>
 		    		<label>Select the checkbox for preference 1</label>
-		    		<input type="checkbox" name="preference1" value="1">
+		    		<input type="checkbox" name="preference1" value="1" checked="true">
 		    		</p>
 		    	</div>
     			<div class="row">   		
@@ -178,7 +178,7 @@
 		    		</div>
 		    		<h3 class="pull-center page-header">Friends Preference</h3>
 		    		<label>Select the checkbox for preference 2</label>
-		    		<input type="checkbox" name="preference2" value="2">
+		    		<input type="checkbox" name="preference2" value="2" checked="true">
 		    	</div>
 				<div class="row">   		
     				<div class="col-sm-3">
@@ -196,12 +196,12 @@
             		<div class="col-sm-3">
     					<label>Adventure</label>
 			                <select class="example-pill" name="ADV_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
