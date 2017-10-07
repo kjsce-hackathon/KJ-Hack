@@ -19,3 +19,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 Route::resource('pref-profile','PreferenceController');
+Route::resource('make-plan','PlaneTripController');

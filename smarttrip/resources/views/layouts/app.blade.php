@@ -26,6 +26,11 @@
 
     <!-- Custom Fonts -->
     <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <style type="text/css">
+        #page-wrapper{
+            background: url(img/1.jpg);
+        }
+    </style>
     @yield('css')
 </head>
 <body>
@@ -93,16 +98,19 @@
                             <!-- /input-group -->
                         </li>
                         <li>
-                            <a href="index.html"><i class="fa fa-dashboard fa-fw"></i>View Hotels</a>
+                            <a href="{{ url('/') }}"><i class="fa fa-dashboard fa-fw"></i>Home</a>
                         </li>
                         <li>
                             <a href="forms.html"><i class="fa fa-edit fa-fw"></i>View Offere</a>
                         </li>
+                         @guest
+                            
+                        @else
                         <li>
                             <a href="#"><i class="fa fa-wrench fa-fw"></i>My Accounts<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="panels-wells.html">My Preferences</a>
+                                    <a href="{{ url('pref-profile') }}">My Preferences</a>
                                 </li>
                                 <li>
                                     <a href="buttons.html">Data</a>
@@ -110,6 +118,7 @@
                             </ul>
                             <!-- /.nav-second-level -->
                         </li>
+                        @endguest
                     </ul>
                 </div>
                 <!-- /.sidebar-collapse -->

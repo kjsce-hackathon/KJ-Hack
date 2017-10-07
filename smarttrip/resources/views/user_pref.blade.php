@@ -54,120 +54,120 @@
     				<div class="col-sm-3">
     					<label>Nature</label>
 			                <select class="example-pill" name="NA" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Adventure</label>
 			                <select class="example-pill" name="ADV" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Educational</label>
 			                <select class="example-pill" name="EDU" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Religious places</label>
 			                <select class="example-pill" name="RP" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Historical places</label>
 			                <select class="example-pill" name="HP" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Shopping</label>
 			                <select class="example-pill" name="S" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Entertainment</label>
 			                <select class="example-pill" name="ENT" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Food</label>
 			                <select class="example-pill" name="F" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Night Life</label>
 			                <select class="example-pill" name="NL" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Sightseeing</label>
 			                <select class="example-pill" name="SS" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 				</div>
@@ -184,12 +184,12 @@
     				<div class="col-sm-3">
     					<label>Nature</label>
 			                <select class="example-pill" name="NA_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
@@ -208,96 +208,96 @@
             		<div class="col-sm-3">
     					<label>Educational</label>
 			                <select class="example-pill" name="EDU_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Religious places</label>
 			                <select class="example-pill" name="RP_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Historical places</label>
 			                <select class="example-pill" name="HP_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Shopping</label>
 			                <select class="example-pill" name="S_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Entertainment</label>
 			                <select class="example-pill" name="ENT_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Food</label>
 			                <select class="example-pill" name="F_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Night Life</label>
 			                <select class="example-pill" name="NL_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 
             		<div class="col-sm-3">
     					<label>Sightseeing</label>
 			                <select class="example-pill" name="SS_" autocomplete="off">
-			                  <option value="A">A</option>
-			                  <option value="B">B</option>
-			                  <option value="C">C</option>
-			                  <option value="D">D</option>
-			                  <option value="E">E</option>
-			                  <option value="F">F</option>
+			                  <option value="0">A</option>
+			                  <option value="1">B</option>
+			                  <option value="2">C</option>
+			                  <option value="3">D</option>
+			                  <option value="4">E</option>
+			                  <option value="5">F</option>
 			                </select>			                
             		</div>
 				</div>
